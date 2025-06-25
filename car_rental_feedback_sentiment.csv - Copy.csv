@@ -1,0 +1,404 @@
+review,sentiment_value,category
+Good performance of car,1,Vehicle Quality
+Excellent customer service and clean vehicle,1,Customer Service
+Very satisfied with the rental experience,1,Overall Experience
+Friendly staff and smooth process,1,Staff Interaction
+Amazing car condition and quick pickup,1,Vehicle Quality
+Outstanding service,1,Customer Service
+Perfect vehicle for our trip,1,Vehicle Quality
+Great value for money,1,Pricing
+Exceptional customer support,1,Customer Service
+Clean car and professional staff,1,Vehicle Quality
+Smooth booking process,1,Booking Process
+Car was in excellent condition,1,Vehicle Quality
+Highly recommend this rental service,1,Overall Experience
+Staff was very helpful and courteous,1,Staff Interaction
+Vehicle exceeded our expectations,1,Vehicle Quality
+Quick and efficient service,1,Process Efficiency
+Great communication throughout,1,Communication
+Car was spotless and well-maintained,1,Vehicle Quality
+Fantastic rental experience overall,1,Overall Experience
+Professional and reliable service,1,Customer Service
+The car was dirty and smelled bad,-1,Vehicle Quality
+Late delivery and poor communication,-1,Process Efficiency
+The vehicle had mechanical issues,-1,Vehicle Quality
+Terrible customer service experience,-1,Customer Service
+Car broke down during our trip,-1,Vehicle Quality
+Hidden fees not mentioned upfront,-1,Pricing
+Staff was rude and unhelpful,-1,Staff Interaction
+Vehicle was not as described,-1,Vehicle Quality
+Long wait times at pickup,-1,Process Efficiency
+Car had damage that was not disclosed,-1,Vehicle Quality
+Poor fuel efficiency,-1,Vehicle Quality
+Booking system was confusing,-1,Booking Process
+Car interior was damaged and dirty,-1,Vehicle Quality
+Delayed pickup without notification,-1,Process Efficiency
+Overcharged for minor scratches,-1,Pricing
+Vehicle smelled of cigarettes,-1,Vehicle Quality
+Air conditioning was not working,-1,Vehicle Quality
+Car had mechanical problems,-1,Vehicle Quality
+Unprofessional staff behavior,-1,Staff Interaction
+Worst rental experience ever,-1,Overall Experience
+Car was decent for the price,0,Vehicle Quality
+Average customer service,0,Customer Service
+Car served its purpose,0,Vehicle Quality
+Typical rental experience,0,Overall Experience
+Service was adequate,0,Customer Service
+Car was functional but basic,0,Vehicle Quality
+Standard pickup and return process,0,Process Efficiency
+Average cleanliness and condition,0,Vehicle Quality
+Car was okay for short trips,0,Vehicle Quality
+Acceptable service quality,0,Customer Service
+Car met minimum requirements,0,Vehicle Quality
+Standard rental car experience,0,Overall Experience
+Neither good nor bad experience,0,Overall Experience
+Superb handling and comfortable ride,1,Vehicle Quality
+Impeccable cleanliness inside and out,1,Vehicle Quality
+Staff went above and beyond to help,1,Staff Interaction
+Best rental rates in town,1,Pricing
+Flawless pickup and return experience,1,Process Efficiency
+Vehicle looked brand new,1,Vehicle Quality
+Extremely satisfied with everything,1,Overall Experience
+Quick response to all my queries,1,Communication
+Perfectly maintained late-model car,1,Vehicle Quality
+Couldn't ask for better service,1,Customer Service
+Convenient location and flexible hours,1,Process Efficiency
+Smooth ride with no issues,1,Vehicle Quality
+Very transparent pricing policy,1,Pricing
+Friendly and knowledgeable agents,1,Staff Interaction
+Modern car with all features working,1,Vehicle Quality
+Made our vacation stress-free,1,Overall Experience
+Excellent roadside assistance,1,Customer Service
+Cleanest rental car I've ever had,1,Vehicle Quality
+Simple online booking system,1,Booking Process
+Prompt service at all times,1,Process Efficiency
+Helpful suggestions for car choice,1,Staff Interaction
+Great selection of vehicles,1,Vehicle Quality
+No surprises at checkout,1,Pricing
+Comfortable seats and quiet cabin,1,Vehicle Quality
+Everything worked perfectly,1,Vehicle Quality
+Would give more stars if possible,1,Overall Experience
+Polite and efficient staff,1,Staff Interaction
+Fastest check-in I've experienced,1,Process Efficiency
+Well-organized rental facility,1,Process Efficiency
+Clearly explained all policies,1,Communication
+Spotless interior with fresh smell,1,Vehicle Quality
+New car with low mileage,1,Vehicle Quality
+Exceeded expectations in every way,1,Overall Experience
+Attentive to all our needs,1,Customer Service
+Perfect car for family vacation,1,Vehicle Quality
+No waiting at pickup location,1,Process Efficiency
+Great experience from start to finish,1,Overall Experience
+Helpful with local driving tips,1,Staff Interaction
+Premium car at standard rates,1,Pricing
+All paperwork was ready in advance,1,Process Efficiency
+Vehicle was detailed to perfection,1,Vehicle Quality
+Smooth transmission and brakes,1,Vehicle Quality
+Best rental company in the area,1,Overall Experience
+Quick resolution of minor issue,1,Customer Service
+Convenient mobile check-in option,1,Booking Process
+Spacious trunk for all our luggage,1,Vehicle Quality
+Excellent GPS system included,1,Vehicle Quality
+Friendly reminder before pickup,1,Communication
+No hidden damage or problems,1,Vehicle Quality
+Perfect rental for business trip,1,Overall Experience
+Car was a pleasure to drive,1,Vehicle Quality
+Staff remembered me from last time,1,Staff Interaction
+Easy to find parking location,1,Process Efficiency
+Great fuel economy on highway,1,Vehicle Quality
+All accessories worked properly,1,Vehicle Quality
+Very professional operation,1,Overall Experience
+Quick replacement when needed,1,Customer Service
+Clear instructions provided,1,Communication
+Like driving a showroom car,1,Vehicle Quality
+No extra charges at return,1,Pricing
+Vehicle was ready early,1,Process Efficiency
+Perfect size for city driving,1,Vehicle Quality
+Helpful with insurance questions,1,Staff Interaction
+Cleanest rental I've ever seen,1,Vehicle Quality
+Made our trip unforgettable,1,Overall Experience
+Fast online reservation system,1,Booking Process
+Excellent condition tires and brakes,1,Vehicle Quality
+No pressure to buy extras,1,Staff Interaction
+Comfortable for long distances,1,Vehicle Quality
+Everything as promised,1,Overall Experience
+Quick inspection at return,1,Process Efficiency
+Great family-friendly options,1,Vehicle Quality
+Super clean and sanitized,1,Vehicle Quality
+Perfect for our road trip,1,Overall Experience
+Helpful with car seat installation,1,Staff Interaction
+No issues with navigation system,1,Vehicle Quality
+Better than expected quality,1,Vehicle Quality
+Very satisfied customer,1,Overall Experience
+Car reeked of stale smoke,-1,Vehicle Quality
+Engine warning light came on,-1,Vehicle Quality
+Rude staff ignored my complaints,-1,Staff Interaction
+Waited over an hour to get car,-1,Process Efficiency
+Broken seat adjuster not disclosed,-1,Vehicle Quality
+Dirty exterior with bird droppings,-1,Vehicle Quality
+Charged for pre-existing damage,-1,Pricing
+AC blew warm air only,-1,Vehicle Quality
+Reservation lost despite confirmation,-1,Booking Process
+No apology for their mistakes,-1,Customer Service
+Uncomfortable seats caused back pain,-1,Vehicle Quality
+Radio didn't work at all,-1,Vehicle Quality
+Overpriced for what we received,-1,Pricing
+No help with flat tire,-1,Customer Service
+Car had no power when accelerating,-1,Vehicle Quality
+Filthy cup holders and dashboard,-1,Vehicle Quality
+Extra insurance pushed aggressively,-1,Staff Interaction
+Key fob battery died immediately,-1,Vehicle Quality
+No child seats available as promised,-1,Vehicle Quality
+Scratches all over the body,-1,Vehicle Quality
+No refund for early return,-1,Pricing
+Dented bumper covered up,-1,Vehicle Quality
+Staff argued about damage claims,-1,Staff Interaction
+Broken door handle made entry difficult,-1,Vehicle Quality
+Reservation system crashed,-1,Booking Process
+No response to complaint emails,-1,Communication
+Unsafe bald tires,-1,Vehicle Quality
+Charged cleaning fee unjustly,-1,Pricing
+No GPS despite reservation note,-1,Vehicle Quality
+Dirty floor mats with stains,-1,Vehicle Quality
+Engine made strange noises,-1,Vehicle Quality
+No courtesy shuttle as advertised,-1,Process Efficiency
+Rental counter understaffed,-1,Process Efficiency
+Car smelled like wet dog,-1,Vehicle Quality
+No instructions for features,-1,Communication
+Hard to reach customer service,-1,Customer Service
+Stained upholstery and seats,-1,Vehicle Quality
+Charged twice for same rental,-1,Pricing
+No warning about toll charges,-1,Communication
+Unreliable pickup service,-1,Process Efficiency
+Broken climate control system,-1,Vehicle Quality
+Reserved model not available,-1,Vehicle Quality
+No compensation for inconvenience,-1,Customer Service
+Dirty windows impaired visibility,-1,Vehicle Quality
+Excessive paperwork required,-1,Process Efficiency
+No help with luggage,-1,Staff Interaction
+Dashboard lights flickered,-1,Vehicle Quality
+No follow-up after complaint,-1,Customer Service
+Uncomfortable ride quality,-1,Vehicle Quality
+Misleading photos of vehicle,-1,Vehicle Quality
+Late night return not accommodated,-1,Process Efficiency
+No spare tire in trunk,-1,Vehicle Quality
+Charged for full tank despite refill,-1,Pricing
+Worn out brake pads,-1,Vehicle Quality
+No response to reservation query,-1,Communication
+Unpleasant chemical smell inside,-1,Vehicle Quality
+Damaged wheel covers,-1,Vehicle Quality
+No apology for overbooking,-1,Customer Service
+Difficult to find location,-1,Process Efficiency
+No child lock functionality,-1,Vehicle Quality
+Excessive wear and tear,-1,Vehicle Quality
+No assistance at return area,-1,Staff Interaction
+Sticky steering wheel,-1,Vehicle Quality
+Broken cup holders,-1,Vehicle Quality
+No proper cleaning between rentals,-1,Vehicle Quality
+Unclear fuel policy,-1,Communication
+Unresponsive to phone calls,-1,Customer Service
+Faulty Bluetooth connection,-1,Vehicle Quality
+No handicap accessibility,-1,Process Efficiency
+Damaged interior trim,-1,Vehicle Quality
+No compensation for delay,-1,Customer Service
+Unpleasant staff attitude,-1,Staff Interaction
+No proper maintenance records,-1,Vehicle Quality
+Unsafe vehicle condition,-1,Vehicle Quality
+No smile or greeting,-1,Staff Interaction
+Unreliable reservation system,-1,Booking Process
+No proper signage at location,-1,Process Efficiency
+Uncomfortable headrest position,-1,Vehicle Quality
+No option to extend rental,-1,Process Efficiency
+Unfair damage assessment,-1,Pricing
+No proper cleaning supplies,-1,Vehicle Quality
+Unhelpful with directions,-1,Staff Interaction
+Unreliable pickup time,-1,Process Efficiency
+Unpleasant return experience,-1,Overall Experience
+Unclear pricing structure,-1,Pricing
+Unprofessional email responses,-1,Communication
+Unsafe parking area,-1,Process Efficiency
+Uncomfortable for tall drivers,-1,Vehicle Quality
+Unacceptable wait time,-1,Process Efficiency
+Unpleasant first impression,-1,Overall Experience
+Unfair mileage charges,-1,Pricing
+Unresponsive manager,-1,Customer Service
+Unreliable vehicle history,-1,Vehicle Quality
+Uncomfortable back seats,-1,Vehicle Quality
+Unclear contract terms,-1,Communication
+Unhelpful at drop-off,-1,Staff Interaction
+Unpleasant customer service,-1,Customer Service
+Unreliable app functionality,-1,Booking Process
+Unsafe child seat installation,-1,Vehicle Quality
+Unfair late return policy,-1,Pricing
+Unprofessional uniform,-1,Staff Interaction
+Unacceptable cleanliness,-1,Vehicle Quality
+Unpleasant smell throughout,-1,Vehicle Quality
+Unreliable roadside assistance,-1,Customer Service
+Uncomfortable driving position,-1,Vehicle Quality
+Unclear insurance options,-1,Communication
+Unhelpful with special requests,-1,Staff Interaction
+Unpleasant overall experience,-1,Overall Experience
+Unfair additional charges,-1,Pricing
+Unresponsive to feedback,-1,Customer Service
+Unreliable vehicle condition,-1,Vehicle Quality
+Uncomfortable climate control,-1,Vehicle Quality
+Unclear return instructions,-1,Communication
+Unhelpful during emergency,-1,Staff Interaction
+Unpleasant staff demeanor,-1,Staff Interaction
+Unreliable reservation status,-1,Booking Process
+Unsafe driving experience,-1,Vehicle Quality
+Uncomfortable noise levels,-1,Vehicle Quality
+Unclear damage policy,-1,Communication
+Unhelpful with extensions,-1,Staff Interaction
+Unpleasant booking process,-1,Booking Process
+Unfair deposit handling,-1,Pricing
+Unresponsive to emails,-1,Communication
+Unreliable pickup location,-1,Process Efficiency
+Uncomfortable seat belts,-1,Vehicle Quality
+Unclear fuel return policy,-1,Communication
+Unhelpful with complaints,-1,Customer Service
+Unpleasant vehicle condition,-1,Vehicle Quality
+Unfair cleaning charges,-1,Pricing
+Unresponsive social media,-1,Communication
+Unreliable maintenance,-1,Vehicle Quality
+Uncomfortable leg room,-1,Vehicle Quality
+Unclear cancellation policy,-1,Communication
+Unhelpful with refunds,-1,Customer Service
+Unpleasant service attitude,-1,Customer Service
+Unreliable special offers,-1,Pricing
+Unsafe vehicle handling,-1,Vehicle Quality
+Uncomfortable headroom,-1,Vehicle Quality
+Unclear additional driver policy,-1,Communication
+Unhelpful with insurance claims,-1,Staff Interaction
+Unpleasant return process,-1,Process Efficiency
+Unfair upgrade charges,-1,Pricing
+Unresponsive phone support,-1,Customer Service
+Unreliable vehicle availability,-1,Vehicle Quality
+Uncomfortable armrest position,-1,Vehicle Quality
+Unclear loyalty program,-1,Communication
+Unhelpful with damage disputes,-1,Staff Interaction
+Unpleasant staff communication,-1,Staff Interaction
+Unreliable mileage tracking,-1,Pricing
+Unsafe tire condition,-1,Vehicle Quality
+Uncomfortable pedal placement,-1,Vehicle Quality
+Unclear roadside policy,-1,Communication
+Unhelpful with special needs,-1,Staff Interaction
+Unpleasant rental duration,-1,Overall Experience
+Unfair age restrictions,-1,Pricing
+Unresponsive to special requests,-1,Customer Service
+Unreliable vehicle features,-1,Vehicle Quality
+Uncomfortable for passengers,-1,Vehicle Quality
+Unclear late return options,-1,Communication
+Unhelpful with technical issues,-1,Staff Interaction
+Unpleasant business interaction,-1,Overall Experience
+Unfair insurance requirements,-1,Pricing
+Unresponsive to urgent matters,-1,Customer Service
+Unreliable vehicle performance,-1,Vehicle Quality
+Uncomfortable seat material,-1,Vehicle Quality
+Unclear additional fees,-1,Communication
+Unhelpful with loyalty benefits,-1,Staff Interaction
+Unpleasant company policies,-1,Overall Experience
+Unfair deposit refund,-1,Pricing
+Unresponsive to damage claims,-1,Customer Service
+Unreliable vehicle electronics,-1,Vehicle Quality
+Uncomfortable for elderly,-1,Vehicle Quality
+Unclear vehicle inspection,-1,Communication
+Unhelpful with roadside issues,-1,Staff Interaction
+Unpleasant corporate experience,-1,Overall Experience
+Unfair mileage calculation,-1,Pricing
+Unresponsive to complaints,-1,Customer Service
+Unreliable transmission,-1,Vehicle Quality
+Uncomfortable for disabled,-1,Vehicle Quality
+Unclear pickup procedure,-1,Communication
+Unhelpful with reservation changes,-1,Staff Interaction
+Unpleasant franchise experience,-1,Overall Experience
+Unfair young driver fee,-1,Pricing
+Unresponsive to suggestions,-1,Customer Service
+Unreliable suspension,-1,Vehicle Quality
+Uncomfortable for large families,-1,Vehicle Quality
+Unclear insurance coverage,-1,Communication
+Unhelpful with contract questions,-1,Staff Interaction
+Unpleasant airport rental,-1,Overall Experience
+Unfair additional driver fee,-1,Pricing
+Unresponsive to compliments,-1,Customer Service
+Unreliable braking system,-1,Vehicle Quality
+Uncomfortable for pets,-1,Vehicle Quality
+Unclear special offer terms,-1,Communication
+Unhelpful with vehicle choice,-1,Staff Interaction
+Unpleasant weekend experience,-1,Overall Experience
+Unfair weekend rates,-1,Pricing
+Unresponsive to positive feedback,-1,Customer Service
+Unreliable steering,-1,Vehicle Quality
+Uncomfortable for long trips,-1,Vehicle Quality
+Unclear loyalty benefits,-1,Communication
+Unhelpful with feature explanations,-1,Staff Interaction
+Unpleasant holiday experience,-1,Overall Experience
+Unfair holiday pricing,-1,Pricing
+Unresponsive to thank you notes,-1,Customer Service
+Unreliable engine performance,-1,Vehicle Quality
+Uncomfortable for business use,-1,Vehicle Quality
+Unclear corporate rates,-1,Communication
+Unhelpful with account issues,-1,Staff Interaction
+Unpleasant business rental,-1,Overall Experience
+Unfair business charges,-1,Pricing
+Unresponsive to corporate clients,-1,Customer Service
+Unreliable hybrid system,-1,Vehicle Quality
+Uncomfortable for city driving,-1,Vehicle Quality
+Unclear fuel options,-1,Communication
+Unhelpful with technical features,-1,Staff Interaction
+Unpleasant luxury rental,-1,Overall Experience
+Unfair luxury charges,-1,Pricing
+Unresponsive to VIP customers,-1,Customer Service
+Unreliable premium features,-1,Vehicle Quality
+Uncomfortable sport seats,-1,Vehicle Quality
+Unclear premium benefits,-1,Communication
+Unhelpful with luxury models,-1,Staff Interaction
+Unpleasant SUV experience,-1,Overall Experience
+Unfair SUV rates,-1,Pricing
+Unresponsive to SUV requests,-1,Customer Service
+Unreliable 4WD system,-1,Vehicle Quality
+Uncomfortable third row,-1,Vehicle Quality
+Unclear SUV policies,-1,Communication
+Unhelpful with large vehicle handling,-1,Staff Interaction
+Unpleasant minivan rental,-1,Overall Experience
+Unfair minivan pricing,-1,Pricing
+Unresponsive to family needs,-1,Customer Service
+Unreliable sliding doors,-1,Vehicle Quality
+Uncomfortable minivan seating,-1,Vehicle Quality
+Unclear minivan features,-1,Communication
+Unhelpful with child safety,-1,Staff Interaction
+Unpleasant convertible experience,-1,Overall Experience
+Unfair convertible premium,-1,Pricing
+Unresponsive to roof issues,-1,Customer Service
+Unreliable convertible top,-1,Vehicle Quality
+Uncomfortable wind noise,-1,Vehicle Quality
+Unclear convertible policies,-1,Communication
+Unhelpful with top operation,-1,Staff Interaction
+Unpleasant truck rental,-1,Overall Experience
+Unfair truck deposit,-1,Pricing
+Unresponsive to truck queries,-1,Customer Service
+Unreliable towing capacity,-1,Vehicle Quality
+Uncomfortable truck cabin,-1,Vehicle Quality
+Unclear truck regulations,-1,Communication
+Unhelpful with loading,-1,Staff Interaction
+Unpleasant van experience,-1,Overall Experience
+Unfair van rental rates,-1,Pricing
+Unresponsive to van requests,-1,Customer Service
+Unreliable van features,-1,Vehicle Quality
+Uncomfortable van seating,-1,Vehicle Quality
+Unclear van capacity,-1,Communication
+Unhelpful with van dimensions,-1,Staff Interaction
+Unpleasant eco-car experience,-1,Overall Experience
+Unfair eco-car limitations,-1,Pricing
+Unresponsive to eco concerns,-1,Customer Service
+Unreliable electric range,-1,Vehicle Quality
+Uncomfortable eco-car size,-1,Vehicle Quality
+Unclear charging policies,-1,Communication
+Unhelpful with EV features,-1,Staff Interaction
+Unpleasant sports car rental,-1,Overall Experience
+Unfair sports car deposit,-1,Pricing
+Unresponsive to performance questions,-1,Customer Service
+Unreliable sports handling,-1,Vehicle Quality
+Uncomfortable sports suspension,-1,Vehicle Quality
+Unclear track day policies,-1,Communication
+Unhelpful with performance modes,-1,Staff Interaction
