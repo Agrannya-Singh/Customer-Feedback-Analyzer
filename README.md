@@ -67,3 +67,5 @@ Key achievements:
 - Logistic Regression (Primary)
 - Naive Bayes
 
+  <img src="https://raw.githubusercontent.com/Agrannya-Singh/Customer-Feedback-Analyzer/05f43e6a44b15cc617f5cdabda593635a295eecc/mermaid-flow.svg">
+
